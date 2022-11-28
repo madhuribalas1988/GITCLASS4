@@ -7,3 +7,4 @@ democlass
 aded
 one more line added
 ASDAS
+added new line
